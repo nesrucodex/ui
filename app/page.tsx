@@ -81,7 +81,7 @@ const Page = () => {
   );
 };
 
-export const Card = () => {
+const Card = () => {
   return (
     <div className="rounded-lg border border-white/5 pb-4">
       <div className="mb-4 flex h-[12rem] items-center justify-center rounded-md border border-white/5">
